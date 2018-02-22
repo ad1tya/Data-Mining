@@ -1,0 +1,10 @@
+1. The carnivore animal have been grouped together in cluster 1.
+2. All the amphibious mammals are clustered together in cluster 2.
+	Animals like jaguar, lynx and cougar are unexpected in this cluster.
+3. Walrus and Elephant seals are in cluster 3. These mammals could have been in cluster 2. But in clusters these are little     outliers.
+4. Animals like rats, rabbits, squirrels, cats have been grouped together in cluster 4. 
+5. All the herbivore(58-66) grass eating animals like deer, sheep, bison have been clustered together in cluster 5.
+6&7. Cluster 6 & 7 also could have been in cluster  8 & 4 respectively.
+8. All the bats(5-11) from the dataset have been clustered together in cluster 8.
+
+From the analysis provided above it can be said that provided clustering makes sense. Though some clusters could have been accumulated in other clusters. More clusters are anyway not required from preliminary analysis.
